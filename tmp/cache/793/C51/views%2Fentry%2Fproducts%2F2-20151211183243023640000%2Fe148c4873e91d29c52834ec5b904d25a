@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry:@valueI"	<div class="entry">
+		<img alt="Ruby" src="/assets/ruby.jpg" />
+		<h3>Aplle</h3>
+		<p>Помните, что вы не сможете сделать без посторонней помощи все, что угодно. Так же, как вы обращались к этому руководству "Rails для начинающих", далее можете так же свободно пользоваться этими ресурсами</p>
+		<div class="price_line">
+		  <span class="price">34.0</span>
+		</div>
+	</div>
+:ET:@created_atf1449921550.174055:@expires_in0
